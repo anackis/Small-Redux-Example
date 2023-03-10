@@ -1,3 +1,10 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 html {
   background-color: black;
 }
@@ -23,15 +30,15 @@ html {
 .btn:hover {
   cursor: pointer
 }
-#dec {
+.dec {
   background-color: red;
 }
-#inc {
+.inc {
   background-color: blue;
 }
-#rnd {
+.rnd {
   background-color: black;
 }
-#res {
+.res {
   background-color: purple;
 }
